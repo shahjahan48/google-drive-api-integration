@@ -117,7 +117,7 @@ namespace GoogleDriveService.Service
                     MimeType = MimeMapping.GetMimeMapping(path),
                     Parents = new List<string>
                     {
-                        "1RKlyrZOCWnQuh0WV-wuc270n7TQiNdlT"
+                        "1JNwuq_fM28wMAPNA9slYUxcn2nLfsole"
                     }
                 };
                 FilesResource.CreateMediaUpload request;
